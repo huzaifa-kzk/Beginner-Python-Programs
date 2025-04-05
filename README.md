@@ -1,2 +1,2 @@
 # Beginner-Python-Programs
-Will be placing python codes which I learned as a beginner in python.
+Will be placing python program which I learnt as a beginner in python.
